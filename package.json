@@ -11,6 +11,8 @@
     "type-check": "vue-tsc --build --force"
   },
   "dependencies": {
+    "@tinymce/tinymce-vue": "^5",
+    "tinymce": "^6.8.2",
     "vue": "^3.4.15"
   },
   "devDependencies": {
